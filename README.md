@@ -3,7 +3,7 @@
 
 # Brief 📖
 A simple TODOs tracker that find unreported todos and submit them as an issue on the repo
-\
+
 # Challenges 🐢
 - Find TODOs via multiple archives and directorys
 - Report them to github without repetition
