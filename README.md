@@ -13,7 +13,7 @@ A simple TODOs tracker that find unreported todos and submit them as an issue on
 [ x ] Script create a issue with the file name and TODOs description\
 [ x ] Issues doesn't repeat\
 [ x ] Work from 
-\
+
 # How it works? 💼
 The app receive the directory path and start searching for TODOs index through the files, them if the --push is activated it get all issues on the repo and report the unrepetead ones on github
 
