@@ -36,7 +36,7 @@ The todo have 2 main things to work:
 3  
 ```
 ## The command line
-The counts with the following flags:
+The app counts with the following flags:
 - --dir (The dir path) [Required]
 - --name (Your github name) [Only required if you will report the TODOs]
 - --repo (The repository that the TODOs will be reported [Only required if you will report the TODOs]
